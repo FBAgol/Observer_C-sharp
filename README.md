@@ -1,5 +1,5 @@
 # Vitaminmangel Observer Projekt
-Dieses Projekt demonstriert die Verwendung des Observer-Entwurfsmusters zur Überwachung von Personen mit Vitaminmangel, während sie Früchte mit einem bestimmten Vitamin konsumieren. Die Implementierung erfolgt in Python und illustriert die Konzepte von Observers und Observables.
+Dieses Projekt demonstriert die Verwendung des Observer-Entwurfsmusters zur Überwachung von Personen mit Vitaminmangel, während sie Früchte mit einem bestimmten Vitamin konsumieren. Die Implementierung erfolgt in c# und illustriert die Konzepte von Observers und Observables.
 
 
 # Funktionsweise
@@ -13,7 +13,7 @@ Das Observable ist eine Klasse, die die beobachteten Früchte darstellt. Jede Fr
 
 # Installation
 
-Um das Projekt auszuführen, müssen Sie sicherstellen, dass Sie Python auf Ihrem System installiert haben. Klonen Sie dann dieses Repository auf Ihren lokalen Computer.
+Um das Projekt auszuführen, müssen Sie sicherstellen, dass Sie die erforderlichen Tools für die C#-Entwicklung auf Ihrem System installiert haben. Klonen Sie dann dieses Repository auf Ihren lokalen Computer.
 
 ```sh
 git clone https://github.com/FBAgol/Observer_C-sharp.git
