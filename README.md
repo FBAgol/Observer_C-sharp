@@ -16,12 +16,9 @@ Das Observable ist eine Klasse, die die beobachteten Früchte darstellt. Jede Fr
 Um das Projekt auszuführen, müssen Sie sicherstellen, dass Sie Python auf Ihrem System installiert haben. Klonen Sie dann dieses Repository auf Ihren lokalen Computer.
 
 ```sh
-git clone https://github.com/FBAgol/Observer-miniProjekt.git
-```
-
-on main.py
+git clone https://github.com/FBAgol/Observer_C-sharp.git
 ```
 
 # UML 
 
-![enter image description here](./assests/image.png)
+![enter image description here](/assests/image.png)
